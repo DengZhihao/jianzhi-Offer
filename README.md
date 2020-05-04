@@ -1,9 +1,6 @@
-# jianzhi-Offer-Leetcode
-《剑指Offer》与Leetcode主站题目链接对应
-* update：中文版leetcode已发布剑指offer授权的刷题合集：https://leetcode-cn.com/problemset/lcof/
-## 本帖记录剑指offer在leetcode主站的原题。
-1. 无
-2. 无
+## 剑指offer在leetcode主站的对应题目。
+1. 赋值运算符函数
+2. 实现单例模式
 3. 数组中重复的数字 -> （中文版） https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
 4. 二维数组中的查找 -> https://leetcode.com/problems/search-a-2d-matrix-ii/
 5. 替换空格 -> （中文版） https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
